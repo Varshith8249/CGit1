@@ -1,1 +1,1 @@
-welcome to git and github workshop
+im trying to push from cloned repo
